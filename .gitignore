@@ -1,0 +1,9 @@
+/.idea/
+
+/nSpigot-API/target/
+/nSpigot-Server/target/
+
+/nSpigot-API/nSpigot-API.iml
+/nSpigot-Server/nSpigot.iml
+
+Spigot.iml
